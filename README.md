@@ -13,7 +13,7 @@ MelodyRise is an Android alarm clock application designed to make waking up more
 
 Want to try MelodyRise on your Android phone?
 
-**Latest Development Build:**
+**Latest Development Build:** https://github.com/phaniinapakolla1-lang/MelodyRise/releases/download/v2.4.1-dev1/app-debug.apk
 
 Once a release is published, replace the placeholder above with your actual GitHub Releases URL.
 
